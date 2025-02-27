@@ -1,6 +1,6 @@
 # A Tutorial of Multi-time Scale Optimization Models and Algorithms
 This repo implements different algorithms to solve a multi-time scale optimization problem. 
-If you find this work useful, please cite our paper as
+
 
 The model of the multi-time scale optimization is given in our paper. We use the following algorithms to solve the model:
 1. Full-space method
